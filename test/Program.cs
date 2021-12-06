@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             //  A comment
+            //  And another
         }
     }
 }
